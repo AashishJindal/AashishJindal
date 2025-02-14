@@ -20,12 +20,12 @@ Here are some of my recent projects:
 - **ML Model for Predictive Analytics**: Using machine learning to predict market trends.
 - **Blockchain Voting System**: A decentralized voting platform ensuring transparency and security.
 
-### Connect with Me
+### 📫 How to reach me:
 Let's connect and collaborate on exciting projects!
 
-- [Let's Connect on LinkedIn](https://www.linkedin.com/in/aashishjindal0001)
-- [Lets Discuss on Twitter (X)](https://twitter.com/yourprofile)
-- [Send an Email to me](mailto:jindalaashish1201@gmail.com)
+- [LinkedIn Profile](https://www.linkedin.com/in/aashishjindal0001)
+- [Twitter (X) Account](https://twitter.com/yourprofile)
+- [Email](mailto:jindalaashish1201@gmail.com)
 
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
